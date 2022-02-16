@@ -1,0 +1,26 @@
+img {
+border: 12px solid darkred;  
+  size: 80px 80px 90px 80px;
+}
+
+table{
+ padding:20px 20px 20px 20px
+  
+}
+
+hi.p {
+  font-size:italicts;
+  font-size"250%"
+  color"purple"
+}
+
+a:hover{
+color: yellow
+}
+
+
+img:hover {
+  
+height: 70%;
+width: 70%;
+}
